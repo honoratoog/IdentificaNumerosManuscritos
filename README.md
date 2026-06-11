@@ -6,15 +6,6 @@ Implementação de uma Rede Neural do tipo **Multilayer Perceptron (MLP)** trein
 
 ---
 
-## 🎥 Demo
-
-> Desenhe um dígito na área preta e clique em **Classificar** para ver a rede neural em ação.
-
-![demo](https://i.imgur.com/placeholder.png)
-<!-- Substitua pela print ou GIF do seu programa rodando -->
-
----
-
 ## 🧠 Arquitetura da Rede Neural
 
 ```
