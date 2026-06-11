@@ -108,5 +108,5 @@ Para minimizar a diferença entre o desenho feito com o mouse e as imagens do MN
 
 ## 👨‍💻 Autor
 
-Feito por **Lucas** — Engenharia de Software  
+Feito por **Lucas Honorato dos Santos** — Engenharia de Software  
 Disciplina: Inteligência Artificial
